@@ -1,0 +1,88 @@
+{
+    "composers": [
+        {
+            "id": 0,
+            "name": "Antonio Lucio Vivaldi",
+            "birth": 1678,
+            "death": 1741,
+            "musics": [
+                {
+                    "id": 0,
+                    "name": "Concerto No. 1 in E major, Spring",
+                    "year": 1725,
+                    "opusNumber": "Op. 8"
+                },
+                {
+                    "id": 1,
+                    "name": "Concerto No. 2 in G minor, Summer",
+                    "year": 1725,
+                    "opusNumber": "Op. 8"
+                },
+                {
+                    "id": 2,
+                    "name": "Concerto No. 3 in F major, Autumn",
+                    "year": 1725,
+                    "opusNumber": "Op. 8"
+                },
+                {
+                    "id": 3,
+                    "name": "Concerto No. 4 in F minor, Winter",
+                    "year": 1725,
+                    "opusNumber": "Op. 8"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Franz Joseph Haydn",
+            "birth": 1732,
+            "death": 1809,
+            "musics": [
+                {
+                    "id": 4,
+                    "name": "Symphony No. 82 in C major, The Bear",
+                    "year": 1786,
+                    "opusNumber": ""
+                },
+                {
+                    "id": 5,
+                    "name": "Symphony No. 45 in F# minor, Farewell",
+                    "year": 1772,
+                    "opusNumber": ""
+                },
+                {
+                    "id": 6,
+                    "name": "Symphony No. 104, London",
+                    "year": 1795,
+                    "opusNumber": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Wolfgang Amadeus Mozart",
+            "birth": 1756,
+            "death": 1791,
+            "musics": [
+                {
+                    "id": 7,
+                    "name": "Symphony No. 38, Prague",
+                    "year": 1786,
+                    "opusNumber": ""
+                },
+                {
+                    "id": 8,
+                    "name": "Concerto for Flute, Harp, and Orchestra",
+                    "year": 1778,
+                    "opusNumber": ""
+                },
+                {
+                    "id": 9,
+                    "name": "Piano Concerto No. 10",
+                    "year": 1777,
+                    "opusNumber": ""
+                }
+            ]
+        }
+    ]
+}
