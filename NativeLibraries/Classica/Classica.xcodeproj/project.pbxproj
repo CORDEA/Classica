@@ -14,7 +14,7 @@
 		467A979B1E45F96400D95D35 /* Composer+Music.m in Sources */ = {isa = PBXBuildFile; fileRef = 467A979A1E45F96400D95D35 /* Composer+Music.m */; };
 		467A97EB1E46DADE00D95D35 /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 467A97EA1E46DADE00D95D35 /* Tests.m */; };
 		467A97ED1E46DADE00D95D35 /* libClassica.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 467A97871E45F63300D95D35 /* libClassica.a */; };
-		467A97F61E46E28000D95D35 /* classica.json in Resources */ = {isa = PBXBuildFile; fileRef = 467A97F31E46DC8F00D95D35 /* classica.json */; };
+		467A97F91E473A2400D95D35 /* classica.json in Resources */ = {isa = PBXBuildFile; fileRef = 467A97F81E473A2400D95D35 /* classica.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,7 +53,7 @@
 		467A97E81E46DADE00D95D35 /* Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		467A97EA1E46DADE00D95D35 /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		467A97EC1E46DADE00D95D35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		467A97F31E46DC8F00D95D35 /* classica.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = classica.json; path = ../Classica/classica.json; sourceTree = "<group>"; };
+		467A97F81E473A2400D95D35 /* classica.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = classica.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +111,7 @@
 		467A97E91E46DADE00D95D35 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
-				467A97F31E46DC8F00D95D35 /* classica.json */,
+				467A97F81E473A2400D95D35 /* classica.json */,
 				467A97EA1E46DADE00D95D35 /* Tests.m */,
 				467A97EC1E46DADE00D95D35 /* Info.plist */,
 			);
@@ -198,7 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				467A97F61E46E28000D95D35 /* classica.json in Resources */,
+				467A97F91E473A2400D95D35 /* classica.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -389,6 +389,7 @@
 				467A97F11E46DADE00D95D35 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
