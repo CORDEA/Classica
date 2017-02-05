@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6da9d9b-f04a-43af-a449-c15080f6fa38" name="Default" comment="" />
+    <list default="true" id="d6da9d9b-f04a-43af-a449-c15080f6fa38" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Abstractions/IClassica.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Abstractions/IClassica.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Abstractions/IComposer.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Abstractions/IComposer.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Abstractions/IMusic.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Abstractions/IMusic.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Abstractions/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Abstractions/Properties/AssemblyInfo.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Bindings.iOS/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Bindings.iOS/Properties/AssemblyInfo.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/AppDelegate.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/AppDelegate.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/Assets.xcassets/Contents.json" afterPath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/Assets.xcassets/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/ComposerTableViewController.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/ComposerTableViewController.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/Main.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/Main.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/MusicTableViewController.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/MusicTableViewController.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Sample/ComposerViewModel.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Sample/ComposerViewModel.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Sample/MusicViewModel.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Sample/MusicViewModel.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.Sample/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.Sample/Properties/AssemblyInfo.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.iOS/ClassicaImplementation.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.iOS/ClassicaImplementation.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.iOS/ComposerImplementation.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.iOS/ComposerImplementation.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.iOS/MusicImplementation.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.iOS/MusicImplementation.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica.iOS/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Plugin.Classica.iOS/Properties/AssemblyInfo.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica/CrossClassica.cs" afterPath="$PROJECT_DIR$/Plugin.Classica/CrossClassica.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin.Classica/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/Plugin.Classica/Properties/AssemblyInfo.cs" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,18 +35,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ComposerViewModel.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample/ComposerViewModel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
               <folding>
-                <marker date="1486276440000" expanded="true" signature="6:49" ph="..." />
-                <marker date="1486276440000" expanded="true" signature="83:446" ph="{...}" />
-                <marker date="1486276440000" expanded="true" signature="117:444" ph="{...}" />
-                <marker date="1486276440000" expanded="true" signature="191:275" ph="{...}" />
-                <marker date="1486276440000" expanded="true" signature="326:441" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="6:49" ph="..." />
+                <marker date="1486293561000" expanded="true" signature="83:529" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="120:527" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="208:322" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="379:521" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -37,10 +58,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1486269341000" expanded="true" signature="6:49" ph="..." />
-                <marker date="1486269341000" expanded="true" signature="83:321" ph="{...}" />
-                <marker date="1486269341000" expanded="true" signature="114:319" ph="{...}" />
-                <marker date="1486269341000" expanded="true" signature="193:316" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="6:49" ph="..." />
+                <marker date="1486293561000" expanded="true" signature="83:371" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="117:369" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="210:363" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -65,20 +86,11 @@
       <file leaf-file-name="MusicTableViewController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample.iOS/MusicTableViewController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="660">
+              <caret line="44" column="10" lean-forward="false" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
               <folding>
-                <marker date="1486276615000" expanded="true" signature="6:80" ph="..." />
-                <marker date="1486276615000" expanded="true" signature="118:1304" ph="{...}" />
-                <marker date="1486276615000" expanded="true" signature="191:1302" ph="{...}" />
-                <marker date="1486276615000" expanded="true" signature="363:388" ph="{...}" />
-                <marker date="1486276615000" expanded="true" signature="454:479" ph="{...}" />
-                <marker date="1486276615000" expanded="true" signature="508:516" ph="{...}" />
-                <marker date="1486276615000" expanded="true" signature="554:693" ph="{...}" />
-                <marker date="1486276615000" expanded="true" signature="749:1299" ph="{...}" />
-                <marker date="1486276615000" expanded="true" signature="833:864" ph="{...}" />
-                <marker date="1486276615000" expanded="true" signature="954:1183" ph="{...}" />
-                <marker date="1486276615000" expanded="true" signature="1259:1295" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="6:80" ph="..." />
+                <marker date="1486293561000" expanded="true" signature="118:121" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -87,23 +99,11 @@
       <file leaf-file-name="ComposerTableViewController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample.iOS/ComposerTableViewController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+            <state relative-caret-position="375">
+              <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
               <folding>
-                <marker date="1486277083000" expanded="true" signature="6:44" ph="..." />
-                <marker date="1486277083000" expanded="true" signature="82:1714" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="158:1712" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="300:325" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="394:419" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="448:456" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="494:619" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="701:1019" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="744:778" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="934:1015" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="1075:1709" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="1187:1227" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="1303:1352" ph="{...}" />
-                <marker date="1486277083000" expanded="true" signature="1442:1705" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="6:44" ph="..." />
+                <marker date="1486293561000" expanded="true" signature="82:85" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -112,7 +112,7 @@
       <file leaf-file-name="ApiDefinition.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Plugin.Classica.Bindings.iOS/ApiDefinition.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-435">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -122,11 +122,11 @@
       <file leaf-file-name="IComposer.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Plugin.Classica.Abstractions/IComposer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="180">
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding>
-                <marker date="1486260291000" expanded="true" signature="53:207" ph="{...}" />
-                <marker date="1486260291000" expanded="true" signature="83:205" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="53:244" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="86:242" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -138,46 +138,45 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1486276611000" expanded="true" signature="6:68" ph="..." />
-                <marker date="1486276611000" expanded="true" signature="95:731" ph="{...}" />
-                <marker date="1486276611000" expanded="true" signature="146:729" ph="{...}" />
-                <marker date="1486276611000" expanded="true" signature="237:288" ph="{...}" />
-                <marker date="1486276611000" expanded="true" signature="554:626" ph="{...}" />
-                <marker date="1486276611000" expanded="true" signature="660:726" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="6:68" ph="..." />
+                <marker date="1486293561000" expanded="true" signature="149:847" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="252:324" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="621:714" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="754:841" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComposerImplementation.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ComposerImplementation.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Plugin.Classica.iOS/ComposerImplementation.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="180">
+              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               <folding>
-                <marker date="1486277195000" expanded="true" signature="6:104" ph="..." />
-                <marker date="1486277195000" expanded="true" signature="131:653" ph="{...}" />
-                <marker date="1486277195000" expanded="true" signature="182:651" ph="{...}" />
-                <marker date="1486277195000" expanded="true" signature="301:333" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="6:104" ph="..." />
+                <marker date="1486293561000" expanded="true" signature="131:729" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="185:727" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="318:371" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CrossClassica.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CrossClassica.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Plugin.Classica/CrossClassica.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1486221641000" expanded="true" signature="6:49" ph="..." />
-                <marker date="1486221641000" expanded="true" signature="76:1099" ph="{...}" />
-                <marker date="1486221641000" expanded="true" signature="106:1097" ph="{...}" />
-                <marker date="1486221641000" expanded="true" signature="299:571" ph="{...}" />
-                <marker date="1486221641000" expanded="true" signature="325:561" ph="{...}" />
-                <marker date="1486221641000" expanded="true" signature="420:519" ph="{...}" />
-                <marker date="1486221641000" expanded="true" signature="614:734" ph="{...}" />
-                <marker date="1486221641000" expanded="true" signature="805:1091" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="6:49" ph="..." />
+                <marker date="1486293561000" expanded="true" signature="76:1134" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="109:1132" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="317:589" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="343:579" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="438:537" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="632:752" ph="{...}" />
+                <marker date="1486293561000" expanded="true" signature="823:1126" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -185,20 +184,40 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Plugin.Classica.Sample/ComposerViewModel.cs" />
         <option value="$PROJECT_DIR$/Plugin.Classica.iOS/ClassicaImplementation.cs" />
         <option value="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/MusicTableViewController.cs" />
         <option value="$PROJECT_DIR$/Plugin.Classica.Sample.iOS/ComposerTableViewController.cs" />
         <option value="$PROJECT_DIR$/Plugin.Classica.iOS/ComposerImplementation.cs" />
+        <option value="$PROJECT_DIR$/Plugin.Classica.Sample/ComposerViewModel.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="52" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>General</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -228,42 +247,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Plugin.Classica.Sample.iOS" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MusicTableViewController.cs" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Classica (6 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Plugin.Classica.Sample.iOS" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Classica (6 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Plugin.Classica.Sample.iOS" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ComposerTableViewController.cs" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -345,6 +328,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration default="true" type="DotNetProject" factoryName=".NET Project">
@@ -386,11 +370,12 @@
       <option name="presentableId" value="Default" />
       <updated>1486276256094</updated>
       <workItem from="1486276257526" duration="872000" />
+      <workItem from="1486293337777" duration="237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="872000" />
+    <option name="totallyTimeSpent" value="1109000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -402,29 +387,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="52" width="1440" height="797" extended-state="0" />
+    <editor active="false" />
     <layout>
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="100" y="100" width="1240" height="700" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="100" width="1240" height="700" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -437,50 +422,29 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Abstractions/IClassica.cs">
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample/ComposerViewModel.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1486222813000" expanded="true" signature="53:216" ph="{...}" />
-            <marker date="1486222813000" expanded="true" signature="83:214" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="6:49" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="83:529" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="120:527" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="208:322" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="379:521" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Abstractions/IMusic.cs">
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample/MusicViewModel.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1486260331000" expanded="true" signature="53:210" ph="{...}" />
-            <marker date="1486260331000" expanded="true" signature="80:208" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Plugin.Classica.iOS/MusicImplementation.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1486225726000" expanded="true" signature="62:529" ph="{...}" />
-            <marker date="1486225726000" expanded="true" signature="110:527" ph="{...}" />
-            <marker date="1486225726000" expanded="true" signature="247:294" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample.iOS/ComposerTableViewController.designer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1486265796000" expanded="true" signature="0:201" ph="/* WARNING ... */" />
-            <marker date="1486265796000" expanded="true" signature="208:277" ph="..." />
-            <marker date="1486265796000" expanded="true" signature="315:451" ph="{...}" />
-            <marker date="1486265796000" expanded="true" signature="403:449" ph="{...}" />
-            <marker date="1486265796000" expanded="true" signature="438:446" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="6:49" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="83:371" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="117:369" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="210:363" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -504,61 +468,8 @@
         <state relative-caret-position="735">
           <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
-            <marker date="1486276615000" expanded="true" signature="6:80" ph="..." />
-            <marker date="1486276615000" expanded="true" signature="118:1304" ph="{...}" />
-            <marker date="1486276615000" expanded="true" signature="191:1302" ph="{...}" />
-            <marker date="1486276615000" expanded="true" signature="363:388" ph="{...}" />
-            <marker date="1486276615000" expanded="true" signature="454:479" ph="{...}" />
-            <marker date="1486276615000" expanded="true" signature="508:516" ph="{...}" />
-            <marker date="1486276615000" expanded="true" signature="554:693" ph="{...}" />
-            <marker date="1486276615000" expanded="true" signature="749:1299" ph="{...}" />
-            <marker date="1486276615000" expanded="true" signature="833:864" ph="{...}" />
-            <marker date="1486276615000" expanded="true" signature="954:1183" ph="{...}" />
-            <marker date="1486276615000" expanded="true" signature="1259:1295" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample/MusicViewModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1486269341000" expanded="true" signature="6:49" ph="..." />
-            <marker date="1486269341000" expanded="true" signature="83:321" ph="{...}" />
-            <marker date="1486269341000" expanded="true" signature="114:319" ph="{...}" />
-            <marker date="1486269341000" expanded="true" signature="193:316" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample/ComposerViewModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1486276440000" expanded="true" signature="6:49" ph="..." />
-            <marker date="1486276440000" expanded="true" signature="83:446" ph="{...}" />
-            <marker date="1486276440000" expanded="true" signature="117:444" ph="{...}" />
-            <marker date="1486276440000" expanded="true" signature="191:275" ph="{...}" />
-            <marker date="1486276440000" expanded="true" signature="326:441" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Plugin.Classica/CrossClassica.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1486221641000" expanded="true" signature="6:49" ph="..." />
-            <marker date="1486221641000" expanded="true" signature="76:1099" ph="{...}" />
-            <marker date="1486221641000" expanded="true" signature="106:1097" ph="{...}" />
-            <marker date="1486221641000" expanded="true" signature="299:571" ph="{...}" />
-            <marker date="1486221641000" expanded="true" signature="325:561" ph="{...}" />
-            <marker date="1486221641000" expanded="true" signature="420:519" ph="{...}" />
-            <marker date="1486221641000" expanded="true" signature="614:734" ph="{...}" />
-            <marker date="1486221641000" expanded="true" signature="805:1091" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="6:80" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="118:121" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -568,27 +479,15 @@
         <state relative-caret-position="420">
           <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
           <folding>
-            <marker date="1486277083000" expanded="true" signature="6:44" ph="..." />
-            <marker date="1486277083000" expanded="true" signature="82:1714" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="158:1712" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="300:325" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="394:419" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="448:456" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="494:619" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="701:1019" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="744:778" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="934:1015" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="1075:1709" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="1187:1227" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="1303:1352" ph="{...}" />
-            <marker date="1486277083000" expanded="true" signature="1442:1705" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="6:44" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="82:85" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Plugin.Classica.Bindings.iOS/ApiDefinition.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -599,8 +498,8 @@
         <state relative-caret-position="225">
           <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
-            <marker date="1486260291000" expanded="true" signature="53:207" ph="{...}" />
-            <marker date="1486260291000" expanded="true" signature="83:205" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="53:244" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="86:242" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -610,28 +509,213 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1486276611000" expanded="true" signature="6:68" ph="..." />
-            <marker date="1486276611000" expanded="true" signature="95:731" ph="{...}" />
-            <marker date="1486276611000" expanded="true" signature="146:729" ph="{...}" />
-            <marker date="1486276611000" expanded="true" signature="237:288" ph="{...}" />
-            <marker date="1486276611000" expanded="true" signature="554:626" ph="{...}" />
-            <marker date="1486276611000" expanded="true" signature="660:726" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="6:68" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="149:847" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="252:324" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="621:714" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="754:841" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Plugin.Classica.iOS/ComposerImplementation.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1486277195000" expanded="true" signature="6:104" ph="..." />
-            <marker date="1486277195000" expanded="true" signature="131:653" ph="{...}" />
-            <marker date="1486277195000" expanded="true" signature="182:651" ph="{...}" />
-            <marker date="1486277195000" expanded="true" signature="301:333" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="6:104" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="131:729" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="185:727" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="318:371" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica/CrossClassica.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486293561000" expanded="true" signature="6:49" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="76:1134" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="109:1132" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="317:589" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="343:579" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="438:537" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="632:752" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="823:1126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Abstractions/IClassica.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Abstractions/IMusic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.iOS/MusicImplementation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample.iOS/ComposerTableViewController.designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample.iOS/MusicTableViewController.designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486265637000" expanded="true" signature="0:201" ph="/* WARNING ... */" />
+            <marker date="1486265637000" expanded="true" signature="208:277" ph="..." />
+            <marker date="1486265637000" expanded="true" signature="315:445" ph="{...}" />
+            <marker date="1486265637000" expanded="true" signature="397:443" ph="{...}" />
+            <marker date="1486265637000" expanded="true" signature="432:440" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample.iOS/MusicTableViewController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="10" lean-forward="false" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+          <folding>
+            <marker date="1486293561000" expanded="true" signature="6:80" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="118:121" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample/MusicViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486293561000" expanded="true" signature="6:49" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="83:371" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="117:369" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="210:363" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample.iOS/ComposerTableViewController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding>
+            <marker date="1486293561000" expanded="true" signature="6:44" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="82:85" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Bindings.iOS/ApiDefinition.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Abstractions/IComposer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <marker date="1486293561000" expanded="true" signature="53:244" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="86:242" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.iOS/ClassicaImplementation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486293561000" expanded="true" signature="6:68" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="149:847" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="252:324" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="621:714" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="754:841" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.iOS/ComposerImplementation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <marker date="1486293561000" expanded="true" signature="6:104" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="131:729" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="185:727" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="318:371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica.Sample/ComposerViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <marker date="1486293561000" expanded="true" signature="6:49" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="83:529" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="120:527" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="208:322" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="379:521" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugin.Classica/CrossClassica.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486293561000" expanded="true" signature="6:49" ph="..." />
+            <marker date="1486293561000" expanded="true" signature="76:1134" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="109:1132" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="317:589" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="343:579" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="438:537" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="632:752" ph="{...}" />
+            <marker date="1486293561000" expanded="true" signature="823:1126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

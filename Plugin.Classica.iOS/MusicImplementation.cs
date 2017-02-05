@@ -4,7 +4,6 @@ namespace Plugin.Classica
 {
     public class MusicImplementation : IMusic
     {
-
         private Classica.Bindings.iOS.Music Music { get; }
 
         public MusicImplementation(Classica.Bindings.iOS.Music music)
@@ -21,6 +20,5 @@ namespace Plugin.Classica
         public int Year => Music.Year;
 
         public string OpusNumber => Music.OpusNumber;
-
     }
 }

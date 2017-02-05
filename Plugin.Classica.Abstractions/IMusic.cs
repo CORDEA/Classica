@@ -2,18 +2,16 @@
 
 namespace Plugin.Classica.Abstractions
 {
-	public interface IMusic
-	{
+    public interface IMusic
+    {
+        int Id { get; }
 
-		int Id { get; }
+        int ComposerId { get; }
 
-		int ComposerId { get; }
+        string Name { get; }
 
-		string Name { get; }
+        int Year { get; }
 
-		int Year { get; }
-
-		string OpusNumber { get; }
-
-	}
+        string OpusNumber { get; }
+    }
 }
