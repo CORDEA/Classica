@@ -44,11 +44,12 @@
 - (instancetype)initWithDictionary:(NSDictionary *)source {
     self = [super init];
     if(self) {
-        NSMutableArray *musics = [[NSMutableArray alloc] init];
-        [source[@"musics"] enumerateObjectsUsingBlock:^(NSDictionary *music, NSUInteger idx, BOOL * _Nonnull stop) {
-            [musics addObject:[[Music alloc] initWithDictionary:music]];
-        }];
         self.id = [source[@"id"] intValue];
+        NSMutableArray *musics = [[NSMutableArray alloc] init];
+        __weak __typeof(self) weakSelf = self;
+        [source[@"musics"] enumerateObjectsUsingBlock:^(NSDictionary *music, NSUInteger idx, BOOL * _Nonnull stop) {
+            [musics addObject:[[Music alloc] initWithDictionary:music composerId:weakSelf.id]];
+        }];
         self.name = source[@"name"];
         self.birth = [source[@"birth"] intValue];
         self.death = [source[@"death"] intValue];

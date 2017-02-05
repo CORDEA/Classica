@@ -25,7 +25,7 @@
 @implementation Music
 
 - (instancetype)initWithId:(NSInteger)id
-                composerId: (NSInteger)composerId
+                composerId:(NSInteger)composerId
                       name:(NSString *)name
                       year:(NSInteger)year
                 opusNumber:(NSString *)opusNumber {
@@ -41,11 +41,11 @@
     return self;
 }
 
-- (instancetype)initWithDictionary:(NSDictionary *)source {
+- (instancetype)initWithDictionary:(NSDictionary *)source composerId:(NSInteger)composerId {
     self = [super init];
     if(self) {
         self.id = [source[@"id"] intValue];
-        self.composerId = [source[@"composerId"] intValue];
+        self.composerId = composerId;
         self.name = source[@"name"];
         self.year = [source[@"year"] intValue];
         self.opusNumber = source[@"opusNumber"];

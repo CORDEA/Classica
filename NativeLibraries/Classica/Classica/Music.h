@@ -26,7 +26,7 @@
                       year: (NSInteger)year
                 opusNumber: (NSString *)opusNumber;
 
-- (instancetype)initWithDictionary: (NSDictionary *)source;
+- (instancetype)initWithDictionary:(NSDictionary *)source composerId:(NSInteger)composerId;
 
 @end
 
