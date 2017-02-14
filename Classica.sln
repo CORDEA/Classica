@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Classica.Sample.iOS"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Classica.Bindings.Android", "Plugin.Classica.Bindings.Android\Plugin.Classica.Bindings.Android.csproj", "{EBA6E947-FDC1-40F3-AFD8-6C760C86268A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Classica.Android", "Plugin.Classica.Android\Plugin.Classica.Android.csproj", "{08E5EFDF-6C80-45CC-93AE-2F75569B717B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
