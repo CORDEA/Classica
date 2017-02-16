@@ -54,13 +54,14 @@ public class Composer {
     static Composer fromJson(JSONObject jsonObject) {
         List<Music> musics = new ArrayList<>();
         try {
+            int id = jsonObject.getInt("id");
             JSONArray array = jsonObject.getJSONArray("musics");
             for (int i = 0; i < array.length(); i++) {
-                musics.add(Music.fromJson(array.getJSONObject(i)));
+                musics.add(Music.fromJson(array.getJSONObject(i), id));
             }
 
             return new Composer(
-                    jsonObject.getInt("id"),
+                    id,
                     jsonObject.getString("name"),
                     jsonObject.getInt("birth"),
                     jsonObject.getInt("death"),

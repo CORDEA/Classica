@@ -47,11 +47,11 @@ public class Music {
         this.opusNumber = opusNumber;
     }
 
-    static Music fromJson(JSONObject jsonObject) {
+    static Music fromJson(JSONObject jsonObject, int composerId) {
         try {
             return new Music(
                     jsonObject.getInt("id"),
-                    jsonObject.getInt("composerId"),
+                    composerId,
                     jsonObject.getString("name"),
                     jsonObject.getInt("year"),
                     jsonObject.getString("opusNumber")
