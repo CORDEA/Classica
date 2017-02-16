@@ -7,7 +7,7 @@ using Toolbar = Android.Support.V7.Widget.Toolbar;
 
 namespace Plugin.Classica.Sample.Android
 {
-    [Activity(Label = "MusicActivity")]
+    [Activity(Label = "Musics")]
     public class MusicActivity : AppCompatActivity
     {
         private const string ComposerIdKey = "ComposerId";
